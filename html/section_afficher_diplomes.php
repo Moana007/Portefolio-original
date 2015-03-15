@@ -1,4 +1,4 @@
-
+﻿
 <?php
 	$affichage = "<h2><i>Mes diplomes</i></h2>";
 	
