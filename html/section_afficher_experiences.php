@@ -1,10 +1,10 @@
 
 <?php
-	$affichage = "<h2><i>Experiences professionnelles</i></h2>";
+	$affichage = "<h2>Experiences professionnelles</h2>";
 	
 	$affichage .= "<ul>";
 		$affichage .= "<li>";
-			$affichage .= "2014 : Création de l'entreprise BULOT MONTAGNARD<br />";
+			$affichage .= "2014 : Création de l'entreprise <strong>BULOT MONTAGNARD</strong><br />";
 			$affichage .= "<ul type='circle'>";
 				$affichage .= "<li>Mise en place de l'activité, création administrative de l'entreprise et conception du logo</li>";
 			$affichage .= "</ul>";

@@ -6,7 +6,7 @@
 	<script type="text/javascript" src="js/jquery.js"></script>
     <script type="text/javascript" src="js/section.js"></script>
     <title>BULOT MONTAGNARD</title>
-    <meta name="description" content="description de la page BULOT MONTAGNARD " />
+    <meta name="description" content="Portfolio de Mrs BULOT MONTAGNARD " />
 </head>
 
 
@@ -23,7 +23,7 @@
 			<h1><center>BULOT MONTAGNARD</center></h1>
 			<p>
 				Artisan fabriquant de sculptures "qui ne ressemblent a rien", je pratique cet art depuis ma plus tendre enfance. J'ai herite de ce savoir-faire de mon pere, l'ayant lui même herite du sien.
-				l'interet de nombreuses personnes aux sculptures fabriquees m'a convaincue de creer ma propore entre : l'entreprise BULOT MONTAGNARD.
+				l'interet de nombreuses personnes aux sculptures fabriquees m'a convaincue de creer ma propore entre : l'entreprise <strong>BULOT MONTAGNARD</strong>.
 				Je vous invite à lire les informations suivantes, afin de mieux me connaitre, aussi bien sur le plan personnel que professionnel.
 			</p>
 		
@@ -38,7 +38,7 @@
                     <a href="#">Connaissances techniques</a>
                 </div>
                 <div id="section_projets" class="section_bouton">
-                    <a href="#">Projets de l'entreprise BULOT MONTAGNARD</a>
+                    <a href="#">Projets de l'entreprise <strong style="font-weight: normal;">BULOT MONTAGNARD</strong></a>
                 </div>
 			</div>
 			

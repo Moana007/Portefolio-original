@@ -1,6 +1,6 @@
 
 <?php
-	$affichage = "<h2><i>Connaissances techniques</i></h2>";
+	$affichage = "<h2>Connaissances techniques</h2>";
 	
 	$affichage .= "<ul>";
 		$affichage .= "<li>";

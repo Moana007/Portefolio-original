@@ -6,13 +6,13 @@
         <li><a href="http://fr.wikipedia.org/wiki/Kirikou" target="_blank">Kirikou</a></li>
     </div>
     
-    <center><p><i>BULOT MONTAGNARD</i></p></center>
+    <center><p>BULOT MONTAGNARD</p></center>
 
     <div id="footer_contact">
     	<i>Contactez-moi :</i>
         <br /><br />
-        <a href="http://www.Facebook.com/" target="_blank"> <img src="img/icone_facebook.gif"></a>
-        <a href="mailto:BULOT-MONTAGNARD@gmail.com"> <img src="img/icone_e-mail.gif"></a>   
+        <a href="http://www.Facebook.com/" target="_blank"> <img src="img/icone_facebook.gif" alt="icon FB"></a>
+        <a href="mailto:BULOT-MONTAGNARD@gmail.com"> <img alt="E-mail" src="img/icone_e-mail.gif"></a>   
     </div>    
     
     <div id="footer_politique">

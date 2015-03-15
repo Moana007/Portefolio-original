@@ -1,6 +1,6 @@
 ﻿
 <?php
-	$affichage = "<h2><i>Diplomes</i></h2>";
+	$affichage = "<h2>Diplomes</h2>";
 	
 	$affichage .= "<ul>";
 		$affichage .= "<li>";

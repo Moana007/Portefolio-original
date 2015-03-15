@@ -1,14 +1,14 @@
 
 <div id="header">
 	<div id="header_photo">
-    	<img src="img/24579477.jpg">
+    	<img alt="BULOT MONTAGNARD" src="img/24579477.jpg">
     </div>
     
     <div id="header_titre">
-    	<h1><i>BULOT MONTAGNARD</i></h1>
-    	<h2><i>Portefeuille de comp&eacute;tences</i></h2>
+    	<h1>BULOT MONTAGNARD</i></h1>
+    	<h2>Portefeuille de comp&eacute;tences</h2>
         <div id="header_langues">
-        	<a href="#"> <img src="img/logo_francais.gif"></a>
+        	<a href="#"> <img alt="logo fr" src="img/logo_francais.gif"></a>
         </div>
     </div>
     
