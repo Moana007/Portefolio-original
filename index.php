@@ -5,7 +5,7 @@
 	<link href="css/style.css" rel="stylesheet" type="text/css" />
 	<script type="text/javascript" src="js/jquery.js"></script>
     <script type="text/javascript" src="js/section.js"></script>
-    <title> -----MOT CLE----- </title>
+    <title>BULOT MONTAGNARD</title>
 </head>
 
 
@@ -17,32 +17,35 @@
 
 
 
-        <!-- Contenu -->
-		<h1>-----MOT CLE----- </h1>
-		<p>
-			-----MOT CLE-----, je suis ...
-			j'ai créé l'entreprise -----MOT CLE-----  blabla
-		</p>
+        <!-- Contenu -->		
         <div class="contenu">
+			<h1><center>BULOT MONTAGNARD</center></h1>
+			<p>
+				Artisan fabriquant de sculptures "qui ne ressemblent a rien", je pratique cet art depuis ma plus tendre enfance. J'ai herite de ce savoir-faire de mon pere, l'ayant lui même herite du sien.
+				l'interet de nombreuses personnes aux sculptures fabriquees m'a convaincue de creer ma propore entre : l'entreprise BULOT MONTAGNARD.
+				Je vous invite à lire les informations suivantes, afin de mieux me connaitre, aussi bien sur le plan personnel que professionnel.
+			</p>
+		
         	<div class="section_boutons">
                 <div id="section_diplomes" class="section_bouton">
-                    <a href="#">Mon parcours</a>
+                    <a href="#">Parcours</a>
                 </div>
                 <div id="section_experiences" class="section_bouton">
-                    <a href="#">Mes experiences professionnelles</a>
+                    <a href="#">Experiences professionnelles</a>
                 </div>         
                 <div id="section_langages" class="section_bouton">
-                    <a href="#">Mes connaissances techniques</a>
+                    <a href="#">Connaissances techniques</a>
                 </div>
                 <div id="section_projets" class="section_bouton">
-                    <a href="#">Mes projets</a>
+                    <a href="#">Projets de l'entreprise BULOT MONTAGNARD</a>
                 </div>
-                <div id="section_CV" class="section_bouton">
-                    <a href="doc/CV_Quentin_GARCIA.pdf">Acceder a mon CV</a>
-                </div>
+			</div>
+			
+			<div class="section_affichages">
+            	<!-- jQuery affichant le resultat (par URL) selon le bouton cliqué -->
             </div>
-        </div>
-    </div>
+		</div>
+	</div>
 
 
 
@@ -50,14 +53,3 @@
 	<?php include('html/footer.php'); ?>
 </body>
 </html>
-
-
-
-
-<!-- stream860@gmail.com et guillaume.legaie@etudiant-eemi.com -->
-<!--Serveur FTP : ftp.portefolio-original.fr ou ftp.cluster011.ovh.net
-Utilisateur : portefolln
-MDP : pBvca4Df9Dfs
-guide : http://guides.ovh.com/MettreMonSiteEnLigne/
--->
-

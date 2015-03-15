@@ -2,19 +2,17 @@
 <div id="footer">
     <div id="footer_sites_partenaires">
     	<h4>Sites partenaires :</h4>
-        <li><a href="http://www." target="_blank">A</a></li>
-        <li><a href="http://www." target="_blank">B</a></li>
-        <li><a href="http://www." target="_blank">C</a></li>
-        <li><a href="http://www." target="_blank">D</a></li>
+        <li><a href="http://fr.wikipedia.org/wiki/Ronald_McDonald" target="_blank">Ronald McDonald</a></li>
+        <li><a href="http://fr.wikipedia.org/wiki/Kirikou" target="_blank">Kirikou</a></li>
     </div>
     
-    <center><p><i>-----MOT CLE-----</i></p></center>
+    <center><p><i>BULOT MONTAGNARD</i></p></center>
 
     <div id="footer_contact">
     	<i>Contactez-moi :</i>
         <br /><br />
-        <a href="http://www.Facebook.com/" target="_blank"> <img src="img/icone_facebook.gif" width="40" height="40"></a>
-        <a href="mailto:-----MOT CLE-----@hotmail.fr"> <img src="img/icone_e-mail.gif" width="40" height="40"></a>   
+        <a href="http://www.Facebook.com/" target="_blank"> <img src="img/icone_facebook.gif"></a>
+        <a href="mailto:BULOT-MONTAGNARD@gmail.com"> <img src="img/icone_e-mail.gif"></a>   
     </div>    
     
     <div id="footer_politique">
@@ -23,5 +21,3 @@
         <li><a href="">Termes et conditions d'utilisation</a></li>
     </div>
 </div>
-
-

@@ -5,10 +5,10 @@
     </div>
     
     <div id="header_titre">
-    	<h1><i>-----MOT CLE-----</i></h1>
-    	<h2><i>Mon portefeuille de comp&eacute;tences</i></h2>
+    	<h1><i>BULOT MONTAGNARD</i></h1>
+    	<h2><i>Portefeuille de comp&eacute;tences</i></h2>
         <div id="header_langues">
-        	<a href="#"> <img src="img/logo_francais.gif" width="40" height="40"></a>
+        	<a href="#"> <img src="img/logo_francais.gif"></a>
         </div>
     </div>
     
@@ -16,5 +16,3 @@
     	<img src="img/bordure_de_laine.gif">
     </div>
 </div>
-
-

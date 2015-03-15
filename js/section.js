@@ -11,9 +11,9 @@ $(document).ready(function()
 			dataType : 'html' ,
 			success : function(retour)
 			{ 
-				//$(".section_affichages").hide(0);
+				$(".section_affichages").hide(0);
 				$(".section_affichages").html(retour);
-				//$(".section_affichages").show(2000);
+				$(".section_affichages").show(1000);
 			},
 			error : function()
 			{
@@ -32,9 +32,9 @@ $(document).ready(function()
 			dataType : 'html' ,
 			success : function(retour)
 			{ 
-				//$(".section_affichages").hide(0);
+				$(".section_affichages").hide(0);
 				$(".section_affichages").html(retour);
-				//$(".section_affichages").show(2000);
+				$(".section_affichages").show(1000);
 			},
 			error : function()
 			{
@@ -53,9 +53,9 @@ $(document).ready(function()
 			dataType : 'html' ,
 			success : function(retour)
 			{ 
-				//$(".section_affichages").hide(0);
+				$(".section_affichages").hide(0);
 				$(".section_affichages").html(retour);
-				//$(".section_affichages").show(2000);
+				$(".section_affichages").show(1000);
 			},
 			error : function()
 			{
@@ -74,9 +74,9 @@ $(document).ready(function()
 			dataType : 'html' ,
 			success : function(retour)
 			{ 
-				//$(".section_affichages").hide(0);
+				$(".section_affichages").hide(0);
 				$(".section_affichages").html(retour);
-				//$(".section_affichages").show(2000);
+				$(".section_affichages").show(1000);
 			},
 			error : function()
 			{
@@ -85,5 +85,3 @@ $(document).ready(function()
 		});
 	});
 });
-
-

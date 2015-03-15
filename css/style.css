@@ -63,6 +63,11 @@ BODY
 {
 	float:right;
 }
+#header_langues img
+{
+	width:40px;
+	height:40px;
+}
 
 #header_bordure
 {
@@ -204,6 +209,11 @@ BODY
 	height:90px;
 	float:right;
 	text-align:center;
+}
+#footer_contact img
+{
+	width:40px;
+	height:40px;
 }
 
 #footer_politique
