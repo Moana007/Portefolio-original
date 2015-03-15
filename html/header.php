@@ -1,7 +1,7 @@
 
 <div id="header">
 	<div id="header_photo">
-    	<img alt="BULOT MONTAGNARD" src="img/24579477.jpg">
+    	<img alt="BULOT MONTAGNARD" src="img/bulot-montagnard-picture.jpg">
     </div>
     
     <div id="header_titre">

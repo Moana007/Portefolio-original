@@ -6,6 +6,7 @@
 	<script type="text/javascript" src="js/jquery.js"></script>
     <script type="text/javascript" src="js/section.js"></script>
     <title>BULOT MONTAGNARD</title>
+    <link rel="shortcut icon" href="img/bulot-montagnard-favicon.ico">
     <meta name="description" content="Portfolio de Mrs BULOT MONTAGNARD " />
 </head>
 
