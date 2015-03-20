@@ -13,9 +13,15 @@
         <br /><br />
         <a href="http://www.Facebook.com/" target="_blank"><img src="img/icone_facebook.gif" alt="icon FB"></a>
         <a href="mailto:BULOT-MONTAGNARD@gmail.com"> <img alt="mail de Bulot Montagnard" src="img/icone_e-mail.gif"></a>
-        <a href="http://www.twitter"><img alt="" src="img/icone_e-mail.gif"></a>
-        <a href="http://www.twitter"><img alt="" src="img/icone_e-mail.gif"></a>
-        <a href="http://www.twitter"><img alt="" src="img/icone_e-mail.gif"></a>    
+        <a href="https://www.facebook.com/profile.php?id=100009154643911&ref=ts&fref=ts">FB Tonio<img alt="" src="img/icone_e-mail.gif"></a>
+        <a href="https://www.facebook.com/pages/Soci%C3%A9t%C3%A9-Bulot-Montagnard/1014058738622806?ref=ts&fref=ts"> FB Page<img alt="" src="img/icone_e-mail.gif"></a>
+        <a href="https://twitter.com/toniovaucelio">Twitter<img alt="" src="img/icone_e-mail.gif"></a>
+
+
+<!--     contact tonio : tonio.vaucelio@gmail.com
+    FB de tonio :https://www.facebook.com/profile.php?id=100009154643911&ref=ts&fref=ts        
+    FB PAge : https://www.facebook.com/pages/Soci%C3%A9t%C3%A9-Bulot-Montagnard/1014058738622806?ref=ts&fref=ts
+        TW : https://twitter.com/toniovaucelio -->
     </div>    
     
     <div id="footer_politique">
