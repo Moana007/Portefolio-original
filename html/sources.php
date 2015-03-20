@@ -17,7 +17,7 @@
 	<div class="body2">
         <!-- Contenu -->		
         <div class="contenu">
-			<h2></h2> 
+			<h1></h1> 
 			
 			 <ul> 
 				 <li></li> 

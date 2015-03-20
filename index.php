@@ -7,9 +7,9 @@
 	<script type="text/javascript" src="js/jquery.js"></script>
 	<script type="text/javascript" src="js/menu.js"></script>
     <!--<script type="text/javascript" src="js/section.js"></script>-->
-    <title>BULOT MONTAGNARD</title>
+    <title>Bulot montagnard - Numéro un des boissons énergisantes bulot</title>
     <link rel="shortcut icon" href="img/bulot-montagnard-favicon.ico">
-    <meta name="description" content="Portfolio de Mrs BULOT MONTAGNARD " />
+    <meta name="description" content="Fondé en 1992, Bulot montagnard est le numéro un des boissons énergisantes bulot. Bulot est la boisson qui accompagnera vos longues randonnées à la montagne." />
 </head>
 
 
@@ -32,7 +32,7 @@
 			<p>
 				Nous allons nous occuper d’une bouteille en plastique dans laquelle se trouve un liquide vert, doux, rafraichissant, montagneux, source d'énergie, synonyme de douceur et de convivialité, présent partout, et surtout en montagne, elle a une représentation mondial en France. Hier, symbole de « Buvons bien, buvons plus», aujourd'hui d'optimisme et de positivisme. Vous avez normalement reconnu le Bulot.
 			</p>
-			<center><img style="height:300px;width:300px;" alt="logo de Bulot Montagnard" src="img/bulot-montagnard-picture.jpg"></center>
+			<center><img style="height:300px;width:300px;" alt="boisson bulot de couleur argent" src="img/bulot-argent.jpg"></center>
 			<p>
 				La société <strong>Bulot Montagnard</strong> a été créée en 1992 par le pharmacien <strong>Tonio Vaucellio</strong> en France. Il apparaît en France dès 1993. C'est une société connue qui possède plusieurs grandes filiales dans le désert. Pour s'intéresser au cas de la Chine, <strong>Bulot Montagnard</strong> repose sur deux entités distinctes. D'une part, Bulot Montagnard France, filiale de Bulot Montagnard Compagny, qui possède des marques et élabore la marketing« consommateurs ». D'autre part, Bulot Montagnard entreprise, filiale de <em>Bulot Montagnard</em> entreprises incorporated, qui assure la mise en préparation des <em>bouteilles de plastique</em>.
 			</p>

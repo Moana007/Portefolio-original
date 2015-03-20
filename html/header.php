@@ -1,4 +1,4 @@
-
+﻿
 <div id="header">
 	<div id="header_photo">
     	<img alt="logo de Bulot Montagnard" src="img/bulot-montagnard-picture.jpg">
