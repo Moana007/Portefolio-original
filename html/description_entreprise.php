@@ -1,18 +1,16 @@
-﻿
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+﻿<!doctype html>
+<html lang="fr">
 <head>
+	<meta charset="utf-8">
 	<link href="../css/style.css" rel="stylesheet" type="text/css" />
 	<link href="../css/menu.css" rel="stylesheet" type="text/css" />
 	<script type="text/javascript" src="../js/jquery.js"></script>
 	<script type="text/javascript" src="../js/menu.js"></script>
     <!--<script type="text/javascript" src="../js/section.js"></script>-->
-    <title>Bulot montagnard - Numéro un des boissons énergisantes bulot</title>
+    <title>Bulot montagnard : Description entreprise</title>
     <link rel="shortcut icon" href="../img/bulot-montagnard-favicon.ico">
-    <meta name="description" content="Portfolio de Mrs BULOT MONTAGNARD " />
+    <meta name="description" content="Description de BULOT MONTAGNARD entreprise" />
 </head>
-
-
 
 <body>
 	<div class="body2">
@@ -25,15 +23,15 @@
 
         <!-- Contenu -->	
         <div class="contenu">
-			<h1><center>Description de l'entreprise Bulot Montagnard</center></h1>
+			<h1 class="center">Description de l'entreprise Bulot Montagnard</h1>
 			<h2>1) Description de notre entreprise</h2>
-			<center><img style="height:300px;width:300px;" alt="boisson bulot de couleur-blanche" src="../img/bulot-montagnard-picture.jpg"></center>
+			<img style="height:300px;width:300px;" alt="boisson bulot de couleur-blanche" src="../img/bulot-montagnard-picture.jpg">
 			<p>
 				En premier, nous allons vous montrer l'entreprise Bulot Montagnard dans toutes ses capacités et tout son environnement. Mais en tout 1er lieu, nous allons vous faire un grand récapitulatif de la provenance de la société  Bulot Montagnard.
 			</p>
 			<h3>•	Société maman de Bulot Montagnard</h3>
 			<p>
-				Bulot est venu, pendant, après et avant l’arrivé des montagne. C'est ainsi qu'un chinois hébergeant en France, nommé Tonio Vaucellio, eut la mauvaise idée de proposer du Bulot à beaucoup de ses amis. Le succès des achats est du aux soldats chinois qui poussèrent Bulot Montagnard à aller à Paris. Pendant la guerre des boutons, ma mère était avait toutes les parts de la compagnie Bulot Montagnard, après la France, avec des créations de plusieurs millions de bouteilles en plastique. Mais, sous cette maman autoritaire, les gardes venant d’ailleurs empêchaient l’arrivé des outils pour Bulot Montagnard, donc la société réinventa la boisson afin de pouvoir garder une bonne relation de commerce dans les montagnes avec la dictature de ma maman. C’est le motif pour laquelle le gouvernement au pouvoir à ce moment donnera à l'entreprise le statut de « fournisseur officiel», ce qui permit de passer a coté de l’interdiction de sucre en France en 1995, ainsi qu'en Afrique et en Amérique. A ce sujet Arthur Dupuis, dans son livre qui illustre Bulot Montagnard : « La procédure du siècle des montagnes », conforte lui aussi que la l’entreprise aurait eu une très bonne entente avec ma maman par l'intermédiaire de son représentant Jean Deschamps. Mais aussi, Bulot Montagnard était souvent un des spots de publicités suivant le magazine documentaire des hautes montagnes de Paris: « Le BiduleTruck».
+				Bulot est venu, pendant, après et avant l’arrivé des montagne. C'est ainsi qu'un chinois hébergeant en France, nommé Tonio Vaucelio, eut la mauvaise idée de proposer du Bulot à beaucoup de ses amis. Le succès des achats est du aux soldats chinois qui poussèrent Bulot Montagnard à aller à Paris. Pendant la guerre des boutons, ma mère était avait toutes les parts de la compagnie Bulot Montagnard, après la France, avec des créations de plusieurs millions de bouteilles en plastique. Mais, sous cette maman autoritaire, les gardes venant d’ailleurs empêchaient l’arrivé des outils pour Bulot Montagnard, donc la société réinventa la boisson afin de pouvoir garder une bonne relation de commerce dans les montagnes avec la dictature de ma maman. C’est le motif pour laquelle le gouvernement au pouvoir à ce moment donnera à l'entreprise le statut de « fournisseur officiel», ce qui permit de passer a coté de l’interdiction de sucre en France en 1995, ainsi qu'en Afrique et en Amérique. A ce sujet Arthur Dupuis, dans son livre qui illustre Bulot Montagnard : « La procédure du siècle des montagnes », conforte lui aussi que la l’entreprise aurait eu une très bonne entente avec ma maman par l'intermédiaire de son représentant Jean Deschamps. Mais aussi, Bulot Montagnard était souvent un des spots de publicités suivant le magazine documentaire des hautes montagnes de Paris: « Le BiduleTruck».
 			</p>
 			<br>
 			<h3>•	La filiale française de Bulot Montagnard</h3>

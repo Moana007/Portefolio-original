@@ -1,44 +1,57 @@
-﻿
-<div id="footer">
+﻿<footer>
     <div id="footer_sites_partenaires">
-    	<h4>Sites partenaires :</h4>
-        <li><a href="http://fr.wikipedia.org/wiki/Ronald_McDonald" target="_blank">Ronald McDonald</a></li>
-        <li><a href="http://fr.wikipedia.org/wiki/Kirikou" target="_blank">Kirikou</a></li>
+    	<h5>Partenaires de Bulot Montagnard :</h5>
+        <ul>
+            <li><a href="http://fr.wikipedia.org/wiki/Ronald_McDonald" target="_blank">Ronald McDonald</a></li>
+            <li><a href="http://fr.wikipedia.org/wiki/Kirikou" target="_blank">Kirikou</a></li>
+        </ul>
     </div>
     
-    <center><p>BULOT MONTAGNARD</p></center>
+    <p class="center">BULOT MONTAGNARD</p>
 
     <div id="footer_contact">
-    	<i>Contactez-moi :</i>
-        <br /><br />
-        <a href="http://www.Facebook.com/" target="_blank"><img src="../img/icone_facebook.gif" alt="icon FB"></a>
-        <a href="mailto:BULOT-MONTAGNARD@gmail.com"> <img alt="mail de Bulot Montagnard" src="../img/icone_e-mail.gif"></a>
-        <a href="https://www.facebook.com/profile.php?id=100009154643911&ref=ts&fref=ts">FB Tonio<img alt="" src="../img/icone_e-mail.gif"></a>
-        <a href="https://www.facebook.com/pages/Soci%C3%A9t%C3%A9-Bulot-Montagnard/1014058738622806?ref=ts&fref=ts"> FB Page<img alt="" src="../img/icone_e-mail.gif"></a>
-        <a href="https://twitter.com/toniovaucelio">Twitter<img alt="" src="../img/icone_e-mail.gif"></a>  
-    </div>    
+        <i>Contactez nous :</i>
+        <br><br>
+        <a href="https://www.facebook.com/pages/Soci%C3%A9t%C3%A9-Bulot-Montagnard/1014058738622806?ref=ts&fref=ts">
+            FB Page de Bulot Montagnard<img alt="icone FB page de Bulot Montagnard" src="../img/icone_e-mail.gif">
+        </a>
+        <a href="mailto:BULOT-MONTAGNARD@gmail.com">
+            Mail Bulot Montagnard<img alt="mail de Bulot Montagnard Entreprise" src="../img/icone_e-mail.gif">
+        </a>
+        <a href="https://www.facebook.com/profile.php?id=100009154643911&ref=ts&fref=ts">
+            FB Profil Tonio<img alt="profil Facebook de Tonio Vaucelio" src="../img/icone_e-mail.gif">
+        </a>
+        <a href="https://twitter.com/toniovaucelio">
+            Twitter profil Tonio<img alt="Twitter de Tonio Vaucelio" src="../img/icone_e-mail.gif">
+        </a>
+    </div>        
     
     <div id="footer_politique">
     	<hr />
-        <li><a href="">Politique de confidentialit&eacute; et mentions l&eacute;gales</a></li><br />
-        <li><a href="">Termes et conditions d'utilisation</a></li>
+        <ul>
+            <li><a href="html/definitions.php">Politique de confidentialité et mentions légales</a></li>
+            <li><a href="html/definitions.php">Termes et conditions d'utilisation</a></li>
+        </ul>
     </div>
 
     <div>
         Plan du site
         <ul>
-            <li>Accueil</li>
-            <li>Introduction</li>
+            <li><a href="../index.php">Accueil</a></li>
+            <li><a href="introduction.php">Introduction</a></li>
             <li>
                 Description et Stratégies
                 <ul>
-                    <li>Description de l'entreprise</li>
-                    <li>La mercatique</li>
+                <li><a href="description_entreprise.php">Description de l'entreprise</a></li>
+                <li><a href="supports.php">Les supports</a></li>
+                <li><a href="mercatique.php">La mercatique</a></li> 
                 </ul>
             </li>
-            <li>Message diffusé</li>
-            <li>Conclusion</li>
+            <li><a href="message_diffuse.php">Message diffusé</a></li>
+            <li><a href="conclusion.php">Conclusion</a></li>
+            <li><a href="definitions.php">P.C et Mention légales</a></li>
+            <li><a href="sources.php">Sources</a></li>
         </ul>
     </div>
 
-</div>
+</footer>

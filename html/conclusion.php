@@ -1,17 +1,16 @@
-﻿
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+﻿<!doctype html>
+<html lang="fr">
 <head>
+	<meta charset="utf-8">
 	<link href="../css/style.css" rel="stylesheet" type="text/css" />
 	<link href="../css/menu.css" rel="stylesheet" type="text/css" />
 	<script type="text/javascript" src="../js/jquery.js"></script>
 	<script type="text/javascript" src="../js/menu.js"></script>
-    <!--<script type="text/javascript" src="../js/section.js"></script>-->
-    <title>Bulot Montagnard : conclusion</title>
-    <link rel="shortcut icon" href="../img/bulot-montagnard-favicon.ico">
-    <meta name="description" content="Portfolio de Mrs BULOT MONTAGNARD " />
+	<!--<script type="text/javascript" src="../js/section.js"></script>-->
+	<title>Bulot Montagnard : conclusion</title>
+	<link rel="shortcut icon" href="../img/bulot-montagnard-favicon.ico">
+	<meta name="description" content="Conclusion de BULOT MONTAGNARD " /> 
 </head>
-
 
 
 <body>
@@ -28,7 +27,8 @@
 
         <!-- Contenu -->		
         <div class="contenu">
-			<h1>Conclusion de Bulot Montagnard</h1>
+			<h1 class="center">Conclusion de Bulot Montagnard</h1>
+			<h2>Une montagne de résultats</h2>
 			<p>
 				D’après ce qu’on a vu, Bulot Montagnard a presque le monopole sur les boisson de montagne, il est claire que la société grandissante a un plan marketing hors norme, et tout nouveau. Nous le voyons car elle est placé sur le marché de à la bourse du monde entier et même de l’univers et à un CA leur permettant de consacrer beaucoup d’argent pour le domaine du marketing de Bulot Montagnard. 
 			</p> 

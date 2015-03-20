@@ -32,7 +32,7 @@ BODY
 /* ----------------------------------- */
 /* --------- PARTIE : HEADER --------- */
 /* ----------------------------------- */
-#header
+header
 {
 	width:980px;
 	height:auto;
@@ -106,6 +106,9 @@ BODY
 	cursor:pointer;
 }
 
+.center {
+	text-align: center;
+}
 .section_boutons
 {
 	width:250px;
@@ -156,7 +159,7 @@ BODY
 /* ----------------------------------- */
 /* --------- PARTIE : FOOTER --------- */
 /* ----------------------------------- */
-#footer
+footer
 {
 	width:100%;
 	margin-top:-10px;
@@ -181,7 +184,7 @@ BODY
 	color:white;
 }
 
-#footer p
+footer p
 {
 	width:60%;
 	height:30px;

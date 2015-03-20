@@ -1,7 +1,7 @@
-﻿
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+﻿<!doctype html>
+<html lang="fr">
 <head>
+	<meta charset="utf-8">
 	<link href="../css/style.css" rel="stylesheet" type="text/css" />
 	<link href="../css/menu.css" rel="stylesheet" type="text/css" />
 	<script type="text/javascript" src="../js/jquery.js"></script>
@@ -9,10 +9,8 @@
     <!--<script type="text/javascript" src="../js/section.js"></script>-->
     <title>Bulot Montagnard : sources</title>
     <link rel="shortcut icon" href="../img/bulot-montagnard-favicon.ico">
-    <meta name="description" content="Portfolio de Mrs BULOT MONTAGNARD " />
+    <meta name="description" content="Sources de BULOT MONTAGNARD " />
 </head>
-
-
 
 <body>
 	<div class="body2">
@@ -27,17 +25,11 @@
 
 
         <!-- Contenu -->		
-        <div class="contenu">
-			<h1></h1> 
+        <div class="contenu"> 
 			
-			 <ul> 
-				 <li></li> 
-				 <li></li> 
-				 <li><strong>BULOT MONTAGNARD</strong></li> 
-				 <li></li> 
-				 <li></li> 
-				 <li></li> 
-			 </ul> 
+
+				 <h1 class="center">Ici les sources de BULOT MONTAGNARD !</h1> 
+
 			
 			 </br></br> 
 		</div>

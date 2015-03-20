@@ -1,7 +1,7 @@
-﻿
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+﻿<!doctype html>
+<html lang="fr">
 <head>
+	<meta charset="utf-8">
 	<link href="../css/style.css" rel="stylesheet" type="text/css" />
 	<link href="../css/menu.css" rel="stylesheet" type="text/css" />
 	<script type="text/javascript" src="../js/jquery.js"></script>
@@ -9,9 +9,8 @@
     <!--<script type="text/javascript" src="../js/section.js"></script>-->
     <title>Bulot Montagnard : introduction</title>
     <link rel="shortcut icon" href="../img/bulot-montagnard-favicon.ico">
-    <meta name="description" content="Portfolio de Mrs BULOT MONTAGNARD " />
+    <meta name="description" content="Introduction de BULOT MONTAGNARD " />
 </head>
-
 
 
 <body>
@@ -28,11 +27,10 @@
 
         <!-- Contenu -->		
         <div class="contenu">
-			<h2>Diplomes de Bulot montagnard</h2> 
-			
+			<h1 class="center">Parcours de Bulot montagnard entreprise</h1> 
 			 <ul> 
 				 <li> 
-					 2013-2014 : Licence Professionnelle SSQNRAR (Sculpture de Statuette Qui Ne Resemblent A Rien)<br /> 
+					 2013-2014 :  <br /> 
 					 <i>IUT boulbok</i> 
 				 </li> 
 				
@@ -42,12 +40,12 @@
 				 </li> 
 				
 				 <li> 
-					 2009-2010 : 1ère ann&eacute;e de licence d'arts et deco<br /> 
+					 2009-2010 : 1ère année de licence d'arts et deco<br /> 
 					 <i>Université d'art : la meilleure du monde</i> 
 				 </li> 
 				
 				 <li> 
-					 2008-2009 : Baccalaur&eacute;at de travaux manuels en fabrication de statuette 'qui ne ressemblent a rien'<br /> 
+					 2008-2009 : Baccalauréat de travaux manuels en fabrication de statuette 'qui ne ressemblent a rien'<br /> 
 					 <i>Lycée nationnal de fabrication de statuettes inutiles</i> 
 				 </li> 
 			 </ul> 

@@ -30,7 +30,7 @@
 			<a>Conclusion</a>
 			<ul class="menu_sous_categories">
 				<li><a href="html/conclusion.php">Conclusion</a></li>
-				<li><a href="html/definitions.php">Définitions</a></li>
+				<li><a href="html/definitions.php">P.C et Mention légales</a></li>
 				<li><a href="html/sources.php">Sources</a></li>
 			</ul>
 		</li>
