@@ -6,7 +6,7 @@
 	<script type="text/javascript" src="../js/jquery.js"></script>
 	<script type="text/javascript" src="../js/menu.js"></script>
     <!--<script type="text/javascript" src="../js/section.js"></script>-->
-    <title>Bulot Montagnard : description de l'entreprise</title>
+    <title>Bulot montagnard - Numéro un des boissons énergisantes bulot</title>
     <link rel="shortcut icon" href="../img/bulot-montagnard-favicon.ico">
     <meta name="description" content="Portfolio de Mrs BULOT MONTAGNARD " />
 </head>
@@ -17,50 +17,26 @@
 	<div class="body2">
         <!-- Contenu -->		
         <div class="contenu">
-			<h2>Experiences professionnelles</h2> 
-			
-			 <ul> 
-				 <li> 
-					 2014 : Création de l'entreprise <strong>BULOT MONTAGNARD</strong><br /> 
-					 <ul type='circle'> 
-						 <li>Mise en place de l'activité, création administrative de l'entreprise et conception du logo</li> 
-					 </ul> 
-				 </li> 
-				 <br /> 
-				
-				 <li> 
-					 2013 (Janvier-Mars) : Stage intenssif de sculpture (entreprise Sculptura)<br /> 
-					 <ul type='circle'> 
-						 <li>Conception d’une sculpture presque inutile</li> 
-						 <li>Realisation d’un projet de gestion des statistiques pour definir le pourcentage d'inutilité d'une sculpture</li> 
-					 </ul> 
-				 </li> 
-				 <br /> 
-				
-				 <li> 
-					 2012 (Mai-Juin) : Stage Travaux manuels (entreprise Kalamogossai)<br /> 
-					 <ul type='circle'> 
-						 <li>Réalisation de mini-projets (decoupage, dessin, collage, peinture)</li> 
-					 </ul> 
-				 </li> 
-				 <br /> 
-				
-				 <li> 
-					 2011 (Juillet-Août) : Emploi saisonnier (entreprise PoteriePowa)<br /> 
-					 <ul type='circle'> 
-						 <li>Activités diverses en poterie</li> 
-					 </ul> 
-				 </li> 
-				 <br /> 
-				
-				 <li> 
-					 2006 (Janvier-Février) : Stage dans le domaine de la poterie<br /> 
-					 <ul type='circle'> 
-						 <li>Modelisation</li> 
-						 <li>Representation sur papier</li> 
-					 </ul> 
-				 </li> 
-			 </ul> 
+			<h1><center>Description de l'entreprise Bulot Montagnard</center></h1>
+			<h2>1) Description de notre entreprise</h2>
+			<center><img style="height:300px;width:300px;" alt="logo de Bulot Montagnard" src="img/bulot-montagnard-picture.jpg"></center>
+			<p>
+				En premier, nous allons vous montrer l'entreprise Bulot Montagnard dans toutes ses capacités et tout son environnement. Mais en tout 1er lieu, nous allons vous faire un grand récapitulatif de la provenance de la société  Bulot Montagnard.
+			</p>
+			<h3>•	Société maman de Bulot Montagnard</h3>
+			<p>
+				Bulot est venu, pendant, après et avant l’arrivé des montagne. C'est ainsi qu'un chinois hébergeant en France, nommé Tonio Vaucellio, eut la mauvaise idée de proposer du Bulot à beaucoup de ses amis. Le succès des achats est du aux soldats chinois qui poussèrent Bulot Montagnard à aller à Paris. Pendant la guerre des boutons, ma mère était avait toutes les parts de la compagnie Bulot Montagnard, après la France, avec des créations de plusieurs millions de bouteilles en plastique. Mais, sous cette maman autoritaire, les gardes venant d’ailleurs empêchaient l’arrivé des outils pour Bulot Montagnard, donc la société réinventa la boisson afin de pouvoir garder une bonne relation de commerce dans les montagnes avec la dictature de ma maman. C’est le motif pour laquelle le gouvernement au pouvoir à ce moment donnera à l'entreprise le statut de « fournisseur officiel», ce qui permit de passer a coté de l’interdiction de sucre en France en 1995, ainsi qu'en Afrique et en Amérique. A ce sujet Arthur Dupuis, dans son livre qui illustre Bulot Montagnard : « La procédure du siècle des montagnes », conforte lui aussi que la l’entreprise aurait eu une très bonne entente avec ma maman par l'intermédiaire de son représentant Jean Deschamps. Mais aussi, Bulot Montagnard était souvent un des spots de publicités suivant le magazine documentaire des hautes montagnes de Paris: « Le BiduleTruck».
+			</p>
+			<br>
+			<h3>•	La filiale française de Bulot Montagnard</h3>
+			 <p>
+			 	Pour la 1ére partie, Bulot Montagnard en France s’établit sur deux partie bien indépendante : Bulot Montagnard France, qui gére la publicité des marques de Bulot Montagnard Company, et Bulot Montagnard Entreprise qui crée et apporte toute les boissons avec du concentrés fabriqué et élaboré par Bulot Montagnard Company. Bulot Montagnard Company et Bulot Montagnard Entreprises Incorporated sont des entreprises différentes et qui sont rentrée à la bourse de Paris et des Etat-Unies. Bulot Montagnard Entreprise, société de Bulot Montagnard Entreprises Incorporated, est maintenant un des principaux créateur, producteur et distributeur de boissons très fraiches, douce et sans alcool en France. Cependant, Bulot Montagnard Company est le principale propriétaire des entreprise qui sont créée par lui même, il élabore la concentration de la boisson et met en place tout le marketing à destination des utilisateurs.
+			 </p>
+			 <br>
+			 <h3>•	Quelles mouvements ont été faites par Bulot Montagnard France depuis sa création ?</h3>
+			 <p>
+			 	On voit que Bulot Montagnard France est fortement engagé sur la cible des utilisateurs souffrant de surpoids mais aussi pour le monde de la nature, la montage, etc... De plus, elle s'engage pour avoir le minimum de  teneur en sels des choses produites, d’utiliser un  marketing qui ne fait pas n’importe quoi et de maintenir la produtction des éléments Francais. La société ne créée pas de marketing pour les jeunes adultes âgés de moins de 15ans, toujours pour des raisons semblables. En 1997, Bulot Montagnard fût utilisé pour un exemple par tout le Moyen-Orient au sujet d'engagements sûr et certains, à propos des enjeux de la santé médical, et de la santé en montagne. La société dit avoir établit des contrat contre les grosses personnes. Par ailleurs, la société propose un grand panel aux utilisateur avec par exemple : boissons douce ou allégé, eau, café, chocolat, boissons pour le dormir, etc… mais aussi elle tien en courent les utilisateurs en montagne sur la composition des produits.
+			 </p>
 		</div>
 	</div>
 </body>
