@@ -29,10 +29,10 @@
         <div class="contenu">
 
 
-				 <h1 class="center">Ici les politique Confidentalité et mentions légales de BULOT MONTAGNARD.</h1> 
+			<h1 class="center">Ici les politique Confidentalité et mentions légales de BULOT MONTAGNARD.</h1> 
 
 		</div>
-		<a href="http://www.portefolio-original.fr/"><button type="button">Retour à l'accueil</button></a>
+		<a href="http://www.portefolio-original.fr/">Retour à l'accueil</a>
 	</div>
 
 

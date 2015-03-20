@@ -30,16 +30,16 @@
 			<h1 class="center">Conclusion de Bulot Montagnard</h1>
 			<h2>Une montagne de résultats</h2>
 			<p>
-				D’après ce qu’on a vu, Bulot Montagnard a presque le monopole sur les boisson de montagne, il est claire que la société grandissante a un plan marketing hors norme, et tout nouveau. Nous le voyons car elle est placé sur le marché de à la bourse du monde entier et même de l’univers et à un CA leur permettant de consacrer beaucoup d’argent pour le domaine du marketing de Bulot Montagnard. 
+				D’après ce qu’on a vu, <strong>Bulot Montagnard</strong> a presque le monopole sur les <strong>boisson</strong> de <em>montagne</em>, il est claire que la <strong>société</strong> grandissante a un plan marketing hors norme, et tout nouveau. Nous le voyons car elle est placé sur le marché de à la bourse du monde entier et même de l’univers et à un CA leur permettant de consacrer beaucoup d’argent pour le domaine du marketing de <strong>Bulot Montagnard</strong>. 
 			</p> 
 			
 			 <p>
-			 	Par ailleurs, chaque société a un plan sur le sujet monétaire variant selon la cible de l’utilisateur : après s’être intéressé aux jeunes, âge de 6 à 66 ans, et sur l’appuis d’une étude venant de Paris, et plus précisément des montagnes, nous distinguons que ces jeunes sont utile pour Bulot Montagnard car ils oblige la famille à consommer un certains pourcentages d’alimentaires proposé par la marque. Pour le plan monétaire elle se fait sur plusieurs partie : la montagne, la douceur et la beauté du produit.
+			 	Par ailleurs, chaque <strong>société</strong> a un plan sur le sujet monétaire variant selon la cible de l’utilisateur : après s’être intéressé aux jeunes, âge de 6 à 66 ans, et sur l’appuis d’une étude venant de <strong>Paris</strong>, et plus précisément des <strong>montagnes</strong>, nous distinguons que ces jeunes sont utile pour <em>Bulot Montagnard</em> car ils oblige la famille à consommer un certains pourcentages d’alimentaires proposé par la marque. Pour le plan monétaire elle se fait sur plusieurs partie : la <em>montagne</em>, la douceur et la beauté du produit.
 			 </p>
 			
-			 </br></br> 
+			 <br><br> 
 		</div>
-		<a href="http://www.portefolio-original.fr/"><button type="button">Retour à l'accueil</button></a>
+		<a href="http://www.portefolio-original.fr/">Retour à l'accueil</a>
 	</div>
 		
 

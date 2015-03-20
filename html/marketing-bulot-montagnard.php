@@ -26,19 +26,16 @@
 
         <!-- Contenu -->		
         <div class="contenu">
-			<h1 class="center">Le marketing de Bulot Montagnard via son budget marketing.</h2> 
+			<h1 class="center">Le marketing de Bulot Montagnard via son budget marketing.</h1> 
 			<h2>3) Présentation de Bulot Montagnard via  l’argent alloué au publicité</h2>
 			<p>
-				Débutons avec le marketing qui se met en marche via l’argent alloué aux publicités qu'entretient Bulot Montagnard. L’argent alloué aux publicités est primordial, voire indispensable, car il faut que Bulot Montagnard est une présence constante, général et puissante sur le marché de la montagne et arrive à s’insére dans la culture général des gens, dans la plupart des pays.
+				Débutons avec le <strong>marketing</strong> de Bulot Montagnard qui se met en <em>marche</em> via l’argent alloué aux <strong>publicités</strong> qu'entretient <strong>Bulot Montagnard</strong>. L’argent alloué aux publicités est primordial, voire indispensable, car il faut que <strong>Bulot Montagnard</strong> est une présence constante, général et puissante sur le <strong>marché de</strong> la <strong>montagne</strong> et arrive à s’insére dans la culture général des gens, dans la plupart des pays.
 			</p> 
-			<p>
-				Il vient très souvent avec, mais pas toujours, d'un contrat de communication marketing qui se fait en même temps, côte a côte, ayant pour objectif de à faire apprendre au gens cette utilité à tous les utilisateurs des produits de la société. Pour commencer, le parrainage, plus utilisé avec le surnom de SuperSponsoring  revient pour une société à donner de l’argent, à donner du matériel ou donner de la technique à un organisme sociale, montagneux ou sportive, dans le but de faire une stratégie commerciale qui  accroîtrais son pouvoir et bien évidement de booster son aperçu.
-			</p>
 			<img alt="boisson bulot de couleur noir" src="img/bulot-noir.jpg">
 
-			 </br></br> 
+			 <br><br> 
 		</div>
-		<a href="http://www.portefolio-original.fr/"><button type="button">Retour à l'accueil</button></a>
+		<a href="http://www.portefolio-original.fr/">Retour à l'accueil</a>
 	</div>
 	
 

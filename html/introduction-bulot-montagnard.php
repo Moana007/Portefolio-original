@@ -50,7 +50,7 @@
 				 </li> 
 			 </ul> 
 		</div>
-		<a href="http://www.portefolio-original.fr/"><button type="button">Retour à l'accueil</button></a>
+		<a href="http://www.portefolio-original.fr/">Retour à l'accueil</a>
 	</div>
 	
 
