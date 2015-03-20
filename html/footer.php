@@ -12,17 +12,17 @@
     <div id="footer_contact">
         <i>Contactez nous :</i>
         <br><br>
-        <a href="https://www.facebook.com/pages/Soci%C3%A9t%C3%A9-Bulot-Montagnard/1014058738622806?ref=ts&fref=ts">
-            FB Page de Bulot Montagnard<img alt="icone FB page de Bulot Montagnard" src="img/icone_e-mail.gif">
+        <div class="fb-like" data-href="https://www.facebook.com/pages/Soci%C3%A9t%C3%A9-Bulot-Montagnard/1014058738622806?sk=info&amp;tab=page_info" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+        <a class="twitter-share-button" href="https://twitter.com/toniovaucelio">
+            Tweet
         </a>
+        <script type="IN/Share" data-url="fr.linkedin.com/in/bulotMontagnards/fr" data-counter="top"></script>
+        <br>
         <a href="mailto:BULOT-MONTAGNARD@gmail.com">
             Mail Bulot Montagnard<img alt="mail de Bulot Montagnard Entreprise" src="img/icone_e-mail.gif">
         </a>
         <a href="https://www.facebook.com/profile.php?id=100009154643911&ref=ts&fref=ts">
-            FB Profil Tonio<img alt="profil Facebook de Tonio Vaucelio" src="img/icone_e-mail.gif">
-        </a>
-        <a href="https://twitter.com/toniovaucelio">
-            Twitter profil Tonio<img alt="Twitter de Tonio Vaucelio" src="img/icone_e-mail.gif">
+            FB Tonio<img alt="profil Facebook de Tonio Vaucelio" src="img/FB-icon.png">
         </a>
     </div>    
     
@@ -55,3 +55,20 @@
     </div>
 
 </footer>
+
+<!-- Facebook Like et Share -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!-- Twitter -->
+<script>
+window.twttr=(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],t=window.twttr||{};if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);t._e=[];t.ready=function(f){t._e.push(f);};return t;}(document,"script","twitter-wjs"));
+</script>
+<!-- LinkedIn -->
+<script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: fr_FR</script>
+
