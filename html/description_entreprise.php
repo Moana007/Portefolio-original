@@ -1,12 +1,13 @@
-
+ï»¿
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 	<link href="../css/style.css" rel="stylesheet" type="text/css" />
+	<link href="../css/menu.css" rel="stylesheet" type="text/css" />
 	<script type="text/javascript" src="../js/jquery.js"></script>
 	<script type="text/javascript" src="../js/menu.js"></script>
     <!--<script type="text/javascript" src="../js/section.js"></script>-->
-    <title>Bulot montagnard - Numéro un des boissons énergisantes bulot</title>
+    <title>Bulot montagnard - NumÃ©ro un des boissons Ã©nergisantes bulot</title>
     <link rel="shortcut icon" href="../img/bulot-montagnard-favicon.ico">
     <meta name="description" content="Portfolio de Mrs BULOT MONTAGNARD " />
 </head>
@@ -15,29 +16,44 @@
 
 <body>
 	<div class="body2">
+	    <!-- Header -->
+        <?php include('header2.php'); ?>
+		
+		
+		
+        <!-- Menu -->
+        <?php include('menu2.php'); ?>
+
+
+
         <!-- Contenu -->		
         <div class="contenu">
 			<h1><center>Description de l'entreprise Bulot Montagnard</center></h1>
 			<h2>1) Description de notre entreprise</h2>
-			<center><img style="height:300px;width:300px;" alt="logo de Bulot Montagnard" src="img/bulot-montagnard-picture.jpg"></center>
+			<center><img style="height:300px;width:300px;" alt="logo de Bulot Montagnard" src="../img/bulot-montagnard-picture.jpg"></center>
 			<p>
-				En premier, nous allons vous montrer l'entreprise Bulot Montagnard dans toutes ses capacités et tout son environnement. Mais en tout 1er lieu, nous allons vous faire un grand récapitulatif de la provenance de la société  Bulot Montagnard.
+				En premier, nous allons vous montrer l'entreprise Bulot Montagnard dans toutes ses capacitÃ©s et tout son environnement. Mais en tout 1er lieu, nous allons vous faire un grand rÃ©capitulatif de la provenance de la sociÃ©tÃ© Bulot Montagnard.
 			</p>
-			<h3>•	Société maman de Bulot Montagnard</h3>
+			<h3>SociÃ©tÃ© maman de Bulot Montagnard</h3>
 			<p>
-				Bulot est venu, pendant, après et avant l’arrivé des montagne. C'est ainsi qu'un chinois hébergeant en France, nommé Tonio Vaucellio, eut la mauvaise idée de proposer du Bulot à beaucoup de ses amis. Le succès des achats est du aux soldats chinois qui poussèrent Bulot Montagnard à aller à Paris. Pendant la guerre des boutons, ma mère était avait toutes les parts de la compagnie Bulot Montagnard, après la France, avec des créations de plusieurs millions de bouteilles en plastique. Mais, sous cette maman autoritaire, les gardes venant d’ailleurs empêchaient l’arrivé des outils pour Bulot Montagnard, donc la société réinventa la boisson afin de pouvoir garder une bonne relation de commerce dans les montagnes avec la dictature de ma maman. C’est le motif pour laquelle le gouvernement au pouvoir à ce moment donnera à l'entreprise le statut de « fournisseur officiel», ce qui permit de passer a coté de l’interdiction de sucre en France en 1995, ainsi qu'en Afrique et en Amérique. A ce sujet Arthur Dupuis, dans son livre qui illustre Bulot Montagnard : « La procédure du siècle des montagnes », conforte lui aussi que la l’entreprise aurait eu une très bonne entente avec ma maman par l'intermédiaire de son représentant Jean Deschamps. Mais aussi, Bulot Montagnard était souvent un des spots de publicités suivant le magazine documentaire des hautes montagnes de Paris: « Le BiduleTruck».
+				Bulot est venu, pendant, aprÃ¨s et avant l'arrivÃ© des montagne. C'est ainsi qu'un chinois hÃ©bergeant en France, nommÃ© Tonio Vaucellio, eut la mauvaise idÃ©e de proposer du Bulot Ã  beaucoup de ses amis. Le succÃ¨s des achats est du aux soldats chinois qui poussÃ¨rent Bulot Montagnard Ã  aller Ã  Paris. Pendant la guerre des boutons, ma mÃ¨re Ã©tait avait toutes les parts de la compagnie Bulot Montagnard, aprÃ¨s la France, avec des crÃ©ations de plusieurs millions de bouteilles en plastique. Mais, sous cette maman autoritaire, les gardes venant d'ailleurs empÃªchaient l'arrivÃ© des outils pour Bulot Montagnard, donc la sociÃ©tÃ© rÃ©inventa la boisson afin de pouvoir garder une bonne relation de commerce dans les montagnes avec la dictature de ma maman. C'est le motif pour laquelle le gouvernement au pouvoir Ã  ce moment donnera Ã  l'entreprise le statut de "fournisseur officiel", ce qui permit de passer a cotÃ© de l'interdiction de sucre en France en 1995, ainsi qu'en Afrique et en AmÃ©rique. A ce sujet Arthur Dupuis, dans son livre qui illustre Bulot Montagnard : "La procÃ©dure du siÃ¨cle des montagnes", conforte lui aussi que la l'entreprise aurait eu une trÃ¨s bonne entente avec ma maman par l'intermÃ©diaire de son reprÃ©sentant Jean Deschamps. Mais aussi, Bulot Montagnard Ã©tait souvent un des spots de publicitÃ©s suivant le magazine documentaire des hautes montagnes de Paris: "Le BiduleTruck".
 			</p>
 			<br>
-			<h3>•	La filiale française de Bulot Montagnard</h3>
+			<h3>La filiale franÃ§aise de Bulot Montagnard</h3>
 			 <p>
-			 	Pour la 1ére partie, Bulot Montagnard en France s’établit sur deux partie bien indépendante : Bulot Montagnard France, qui gére la publicité des marques de Bulot Montagnard Company, et Bulot Montagnard Entreprise qui crée et apporte toute les boissons avec du concentrés fabriqué et élaboré par Bulot Montagnard Company. Bulot Montagnard Company et Bulot Montagnard Entreprises Incorporated sont des entreprises différentes et qui sont rentrée à la bourse de Paris et des Etat-Unies. Bulot Montagnard Entreprise, société de Bulot Montagnard Entreprises Incorporated, est maintenant un des principaux créateur, producteur et distributeur de boissons très fraiches, douce et sans alcool en France. Cependant, Bulot Montagnard Company est le principale propriétaire des entreprise qui sont créée par lui même, il élabore la concentration de la boisson et met en place tout le marketing à destination des utilisateurs.
+			 	Pour la 1Ã¨re partie, Bulot Montagnard en France s'Ã©tablit sur deux partie bien indÃ©pendante : Bulot Montagnard France, qui gÃ©re la publicitÃ© des marques de Bulot Montagnard Company, et Bulot Montagnard Entreprise qui crÃ©e et apporte toute les boissons avec du concentrÃ©s fabriquÃ© et Ã©laborÃ© par Bulot Montagnard Company. Bulot Montagnard Company et Bulot Montagnard Entreprises Incorporated sont des entreprises diffÃ©rentes et qui sont rentrÃ©e Ã  la bourse de Paris et des Etat-Unies. Bulot Montagnard Entreprise, sociÃ©tÃ© de Bulot Montagnard Entreprises Incorporated, est maintenant un des principaux crÃ©ateur, producteur et distributeur de boissons trÃ¨s fraiches, douce et sans alcool en France. Cependant, Bulot Montagnard Company est le principale propriÃ©taire des entreprise qui sont crÃ©Ã©e par lui mÃªme, il Ã©labore la concentration de la boisson et met en place tout le marketing Ã  destination des utilisateurs.
 			 </p>
 			 <br>
-			 <h3>•	Quelles mouvements ont été faites par Bulot Montagnard France depuis sa création ?</h3>
+			 <h3>Quelles mouvements ont Ã©tÃ© faites par Bulot Montagnard France depuis sa crÃ©ation ?</h3>
 			 <p>
-			 	On voit que Bulot Montagnard France est fortement engagé sur la cible des utilisateurs souffrant de surpoids mais aussi pour le monde de la nature, la montage, etc... De plus, elle s'engage pour avoir le minimum de  teneur en sels des choses produites, d’utiliser un  marketing qui ne fait pas n’importe quoi et de maintenir la produtction des éléments Francais. La société ne créée pas de marketing pour les jeunes adultes âgés de moins de 15ans, toujours pour des raisons semblables. En 1997, Bulot Montagnard fût utilisé pour un exemple par tout le Moyen-Orient au sujet d'engagements sûr et certains, à propos des enjeux de la santé médical, et de la santé en montagne. La société dit avoir établit des contrat contre les grosses personnes. Par ailleurs, la société propose un grand panel aux utilisateur avec par exemple : boissons douce ou allégé, eau, café, chocolat, boissons pour le dormir, etc… mais aussi elle tien en courent les utilisateurs en montagne sur la composition des produits.
+			 	On voit que Bulot Montagnard France est fortement engagÃ© sur la cible des utilisateurs souffrant de surpoids mais aussi pour le monde de la nature, la montage, etc... De plus, elle s'engage pour avoir le minimum de  teneur en sels des choses produites, d'utiliser un  marketing qui ne fait pas n'importe quoi et de maintenir la produtction des Ã©lÃ©ments Francais. La sociÃ©tÃ© ne crÃ©Ã©e pas de marketing pour les jeunes adultes Ã¢gÃ©s de moins de 15ans, toujours pour des raisons semblables. En 1997, Bulot Montagnard fÃ»t utilisÃ© pour un exemple par tout le Moyen-Orient au sujet d'engagements sÃ»r et certains, Ã  propos des enjeux de la santÃ© mÃ©dical, et de la santÃ© en montagne. La sociÃ©tÃ© dit avoir Ã©tablit des contrat contre les grosses personnes. Par ailleurs, la sociÃ©tÃ© propose un grand panel aux utilisateur avec par exemple : boissons douce ou allÃ©gÃ©, eau, cafÃ©, chocolat, boissons pour le dormir, etc... mais aussi elle tien en courent les utilisateurs en montagne sur la composition des produits.
 			 </p>
 		</div>
 	</div>
+	
+
+
+	<!-- Footer -->
+	<?php include('footer2.php'); ?>
 </body>
 </html>
