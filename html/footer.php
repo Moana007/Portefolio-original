@@ -7,7 +7,7 @@
         </ul>
     </div>
     
-    <p class="center">BULOT MONTAGNARD</p>
+    <p class="center">Les contacts de <em>BULOT MONTAGNARD</em></p>
 
     <div id="footer_contact">
         <i>Contactez nous :</i>
@@ -29,28 +29,28 @@
     <div id="footer_politique">
     	<hr />
         <ul>
-            <li><a href="html/definitions.php">Politique de confidentialité et mentions légales</a></li>
-            <li><a href="html/definitions.php">Termes et conditions d'utilisation</a></li>
+            <li><a href="definitions-bulot-montagnard">Politique de confidentialité et mentions légales</a></li>
+            <li><a href="definitions-bulot-montagnard">Termes et conditions d'utilisation</a></li>
         </ul>
     </div>
 
     <div>
         Plan du site
         <ul>
-            <li><a href="index.php">Accueil</a></li>
-            <li><a href="html/introduction.php">Introduction</a></li>
+            <li><a href="bulot-montagnard">Accueil</a></li>
+            <li><a href="introduction-bulot-montagnard">Introduction</a></li>
             <li>
                 Description et Stratégies
                 <ul>
-                <li><a href="html/description_entreprise.php">Description de l'entreprise</a></li>
-                <li><a href="html/supports.php">Les supports</a></li>
-                <li><a href="html/mercatique.php">La mercatique</a></li> 
+                <li><a href="description-bulot-montagnard">Description de <strong>Bulot Montagnard</strong></a></li>
+                <li><a href="supports-bulot-montagnard">Les supports</a></li>
+                <li><a href="marketing-bulot-montagnard">La mercatique de <strong>Bulot Montagnard</strong></a></li>
                 </ul>
             </li>
-            <li><a href="html/message_diffuse.php">Message diffusé</a></li>
-            <li><a href="html/conclusion.php">Conclusion</a></li>
-            <li><a href="html/definitions.php">P.C et Mention légales</a></li>
-            <li><a href="html/sources.php">Sources</a></li>
+            <li><a href="message-bulot-montagnard">Message diffusé par Bulot Montagnard</a></li>
+            <li><a href="conclusion-bulot-montagnard">Conclusion</a></li>
+            <li><a href="definitions-bulot-montagnard">P.C et Mention légales</a></li>
+            <li><a href="sources-bulot-montagnard">Sources des mots Bulot Montagnard</a></li>
         </ul>
     </div>
 

@@ -2,13 +2,13 @@
 <html lang="fr">
 <head>
 	<meta charset="utf-8">
-	<link href="../css/style.css" rel="stylesheet" type="text/css" />
-	<link href="../css/menu.css" rel="stylesheet" type="text/css" />
-	<script type="text/javascript" src="../js/jquery.js"></script>
-	<script type="text/javascript" src="../js/menu.js"></script>
+	<link href="css/style.css" rel="stylesheet" type="text/css" />
+	<link href="css/menu.css" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="js/jquery.js"></script>
+	<script type="text/javascript" src="js/menu.js"></script>
     <!--<script type="text/javascript" src="../js/section.js"></script>-->
     <title>Bulot Montagnard : supports</title>
-    <link rel="shortcut icon" href="../img/bulot-montagnard-favicon.ico">
+    <link rel="shortcut icon" href="img/bulot-montagnard-favicon.ico">
     <meta name="description" content="Portfolio de Mrs BULOT MONTAGNARD " />
 </head>
 
@@ -16,12 +16,12 @@
 <body>
 	<div class="body2">
 	    <!-- Header -->
-        <?php include('header2.php'); ?>
+        <?php include('header.php'); ?>
 		
 		
 		
         <!-- Menu -->
-        <?php include('menu2.php'); ?>
+        <?php include('menu.php'); ?>
 
 
 
@@ -35,15 +35,16 @@
 			<p>
 				Il vient très souvent avec, mais pas toujours, d'un contrat de communication marketing qui se fait en même temps, côte a côte, ayant pour objectif de à faire apprendre au gens cette utilité à tous les utilisateurs des produits de la société. Pour commencer, le parrainage, plus utilisé avec le surnom de SuperSponsoring  revient pour une société à donner de l’argent, à donner du matériel ou donner de la technique à un organisme sociale, montagneux ou sportive, dans le but de faire une stratégie commerciale qui  accroîtrais son pouvoir et bien évidement de booster son aperçu.
 			</p>
-			<img alt="logo de Bulot Montagnard" src="../img/bulot-orange.jpg">
+			<img alt="logo de Bulot Montagnard" src="img/bulot-orange.jpg">
 			
 			 </br></br> 
 		</div>
+		<a href="http://www.portefolio-original.fr/"><button type="button">Retour à l'accueil</button></a>
 	</div>
 	
 
 
 	<!-- Footer -->
-	<?php include('footer2.php'); ?>
+	<?php include('footer.php'); ?>
 </body>
 </html>

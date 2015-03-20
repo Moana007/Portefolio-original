@@ -1,0 +1,14 @@
+Options +FollowSymlinks
+RewriteEngine On
+
+RewriteRule ^bulot-montagnard$ index.php [L]
+
+RewriteRule ^description-bulot-montagnard$ html/description-bulot-montagnard.php [L]
+RewriteRule ^introduction-bulot-montagnard$ html/introduction-bulot-montagnard.php [L]
+RewriteRule ^marketing-bulot-montagnard$ html/marketing-bulot-montagnard.php [L]
+RewriteRule ^message-bulot-montagnard$ html/message-bulot-montagnard.php [L]
+RewriteRule ^sources-bulot-montagnard$ html/sources-bulot-montagnard.php [L]
+
+RewriteRule ^conclusion-bulot-montagnard$ html/conclusion.php [L]
+RewriteRule ^definitions-bulot-montagnard$ html/definitions.php [L]
+RewriteRule ^supports-bulot-montagnard$ html/supports.php [L]

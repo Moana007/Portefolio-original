@@ -1,37 +1,37 @@
 ﻿
 <div id="menu">
 	<ul class="menu_categories">
-		<li><a href="index.php">Accueil</a></li>
+		<li><a href="bulot-montagnard">Accueil</a></li>
 
 		<li>
 			<a>Introduction</a>
 			<ul class="menu_sous_categories">
-				<li><a href="html/introduction.php">Introduction</a></li>
+				<li><a href="introduction-bulot-montagnard">Introduction</a></li>
 			</ul>
 		</li>
 
 		<li>
 			<a>Description et stratégies</a>
 			<ul class="menu_sous_categories">
-				<li><a href="html/description_entreprise.php">Description de l'entreprise</a></li>
-				<li><a href="html/supports.php">Les supports</a></li>
-				<li><a href="html/mercatique.php">La mercatique</a></li> 
+				<li><a href="description-bulot-montagnard">Description de l'<strong>entreprise</strong></a></li>
+				<li><a href="supports-bulot-montagnard">Les supports</a></li>
+				<li><a href="marketing-bulot-montagnard">La mercatique de <strong>Bulot Montagnard</strong></a></li> 
 			</ul>
 		</li>
  
 		<li>
 			<a>L'influence de la publicité</a>
 			<ul class="menu_sous_categories">
-				<li><a href="html/message_diffuse.php">Message diffusé</a></li>
+				<li><a href="message-bulot-montagnard">Message diffusé par Bulot Montagnard</a></li>
 			</ul>
 		</li>
 
 		<li>
 			<a>Conclusion</a>
 			<ul class="menu_sous_categories">
-				<li><a href="html/conclusion.php">Conclusion</a></li>
-				<li><a href="html/definitions.php">P.C et Mention légales</a></li>
-				<li><a href="html/sources.php">Sources</a></li>
+				<li><a href="conclusion-bulot-montagnard">Conclusion</a></li>
+				<li><a href="definitions-bulot-montagnard">P.C et Mention légales</a></li>
+				<li><a href="sources-bulot-montagnard">Sources</a></li>
 			</ul>
 		</li>
 	</ul>

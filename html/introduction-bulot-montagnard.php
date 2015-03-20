@@ -2,13 +2,13 @@
 <html lang="fr">
 <head>
 	<meta charset="utf-8">
-	<link href="../css/style.css" rel="stylesheet" type="text/css" />
-	<link href="../css/menu.css" rel="stylesheet" type="text/css" />
-	<script type="text/javascript" src="../js/jquery.js"></script>
-	<script type="text/javascript" src="../js/menu.js"></script>
+	<link href="css/style.css" rel="stylesheet" type="text/css" />
+	<link href="css/menu.css" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="js/jquery.js"></script>
+	<script type="text/javascript" src="js/menu.js"></script>
     <!--<script type="text/javascript" src="../js/section.js"></script>-->
     <title>Bulot Montagnard : introduction</title>
-    <link rel="shortcut icon" href="../img/bulot-montagnard-favicon.ico">
+    <link rel="shortcut icon" href="img/bulot-montagnard-favicon.ico">
     <meta name="description" content="Introduction de BULOT MONTAGNARD " />
 </head>
 
@@ -16,12 +16,12 @@
 <body>
 	<div class="body2">
 	    <!-- Header -->
-        <?php include('header2.php'); ?>
+        <?php include('header.php'); ?>
 		
 		
 		
         <!-- Menu -->
-        <?php include('menu2.php'); ?>
+        <?php include('menu.php'); ?>
 
 
 
@@ -50,11 +50,12 @@
 				 </li> 
 			 </ul> 
 		</div>
+		<a href="http://www.portefolio-original.fr/"><button type="button">Retour à l'accueil</button></a>
 	</div>
 	
 
 
 	<!-- Footer -->
-	<?php include('footer2.php'); ?>
+	<?php include('footer.php'); ?>
 </body>
 </html>

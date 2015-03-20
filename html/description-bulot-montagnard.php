@@ -2,13 +2,13 @@
 <html lang="fr">
 <head>
 	<meta charset="utf-8">
-	<link href="../css/style.css" rel="stylesheet" type="text/css" />
-	<link href="../css/menu.css" rel="stylesheet" type="text/css" />
-	<script type="text/javascript" src="../js/jquery.js"></script>
-	<script type="text/javascript" src="../js/menu.js"></script>
+	<link href="css/style.css" rel="stylesheet" type="text/css" />
+	<link href="css/menu.css" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="js/jquery.js"></script>
+	<script type="text/javascript" src="js/menu.js"></script>
     <!--<script type="text/javascript" src="../js/section.js"></script>-->
     <title>Bulot montagnard : Description entreprise</title>
-    <link rel="shortcut icon" href="../img/bulot-montagnard-favicon.ico">
+    <link rel="shortcut icon" href="img/bulot-montagnard-favicon.ico">
     <meta name="description" content="Description de BULOT MONTAGNARD entreprise" />
 </head>
 
@@ -16,16 +16,16 @@
 	<div class="body2">
 
 	    <!-- Header -->
-        <?php include('header2.php'); ?>
+        <?php include('header.php'); ?>
 		
         <!-- Menu -->
-        <?php include('menu2.php'); ?>
+        <?php include('menu.php'); ?>
 
         <!-- Contenu -->	
         <div class="contenu">
 			<h1 class="center">Description de l'entreprise Bulot Montagnard</h1>
 			<h2>1) Description de notre entreprise</h2>
-			<img style="height:300px;width:300px;" alt="boisson bulot de couleur-blanche" src="../img/bulot-montagnard-picture.jpg">
+			<img style="height:300px;width:300px;" alt="boisson bulot de couleur-blanche" src="img/bulot-montagnard-picture.jpg">
 			<p>
 				En premier, nous allons vous montrer l'entreprise Bulot Montagnard dans toutes ses capacités et tout son environnement. Mais en tout 1er lieu, nous allons vous faire un grand récapitulatif de la provenance de la société  Bulot Montagnard.
 			</p>
@@ -45,11 +45,12 @@
 
 			 </p>
 		</div>
+		<a href="http://www.portefolio-original.fr/"><button type="button">Retour à l'accueil</button></a>
 	</div>
 	
 
 
 	<!-- Footer -->
-	<?php include('footer2.php'); ?>
+	<?php include('footer.php'); ?>
 </body>
 </html>
