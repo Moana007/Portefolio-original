@@ -1,5 +1,5 @@
 
-$(document).ready(function()
+/*$(document).ready(function()
 {
 	// Fonction d'affichage des diplomes dans la section_affichage
 	$("#section_diplomes").click(function()
@@ -84,4 +84,4 @@ $(document).ready(function()
 			}
 		});
 	});
-});
+});*/

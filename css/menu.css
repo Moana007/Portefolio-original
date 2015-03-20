@@ -1,0 +1,132 @@
+
+
+
+/*------------------------------------------------------------------------------*/
+/*------------------------------ MENU DEROULANT --------------------------------*/
+/*------------------------------------------------------------------------------*/
+
+/*--------------------------- Menu : Barre générale ----------------------------*/
+#menu
+{
+	width:95%;
+	min-width:530px;
+	margin:20px auto;
+	clear:both;
+	/*font-size:0.8em;*/
+	text-align:center;
+}
+
+
+
+/*----------------- Menu : Premier niveau = "menu_categories" ------------------*/
+.menu_categories
+{
+	width:100%;
+	min-width:530px;
+	float:left;
+}
+	.menu_categories li
+	{
+		width:19%;
+		min-width:100px;
+		float:left; /*--- Permet de mettre les items &lt;li&gt; horizontalement ---*/
+		position:relative; /*--- Declare X and Y axis base for sub navigation ---*/
+		
+		list-style-type:none;
+	}
+		.menu_categories li a
+		{
+			width:100%;
+			height:30px;
+			border:1px solid black;
+			/*border-radius: 10px 10px 10px 10px;*/
+			float:left;
+			display:block; /*--- Mise en bloc des liens ---*/
+			color:white;
+			background-color:grey;
+			text-decoration:none;
+			cursor:pointer;
+		}
+			.menu_categories li a:hover
+			{
+				background-color:#bebebe;
+			}
+
+
+
+/*-------------------------- Drop down trigger styles --------------------------*/
+.menu_categories li span
+{
+	width:100%;
+	height:31px;
+	left:1px;
+	float:left;
+	position:absolute;
+}
+
+
+
+/*-------------------------- Hover effect for trigger --------------------------*/
+.menu_categories li span.subhover
+{
+	width:100%;
+	background-position:center bottom; 
+	cursor:pointer;
+}
+
+
+
+/*------------- menu : Deuxième niveau = "menu_sous_categories" ----------------*/
+.menu_sous_categories
+{
+	width:100%;
+	min-width:100px;
+	margin:0;
+	padding:0;
+	top:31px;
+	border-right:1px solid black;
+	float:left; /*--- Permet de mettre les items &lt;li&gt; horizontalement ---*/
+	position:absolute; /*--- Important : Keeps menu_sous_categories from affecting main navigation flow ---*/
+	background-color:#64526a;
+	display:none; /*--- Pour le faire disparaitre ---*/
+	font-size:0.8em;
+}
+
+.menu_sous_categories li
+{
+	width:100%;
+	margin:0;
+	padding:0;
+	border-top:1px solid #252525; /*--- Create bevel effect ---*/
+	border-bottom:1px solid #444; /*--- Create bevel effect ---*/
+	clear: both;
+}
+
+.menu_sous_categories li a
+{
+	width:100%;
+	margin:0;
+	border:0;
+	float:left;
+	display:block;
+	background-color:rgba(0,0,0,0.5);
+	text-decoration:none;
+}
+
+.menu_sous_categories li a:hover 
+{
+	background-image:#a492aa;
+}
+
+/*.menu_sous_categories li a:visited 
+{
+	 background-color:#;
+}*/
+
+/*--- Permet de passer au mode "menu simple html/css, sans jquery" ---*/
+/*#menu li:hover > .menu_sous_categories 
+{ 
+	display: block; 
+}*/
+
+

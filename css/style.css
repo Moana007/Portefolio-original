@@ -82,20 +82,14 @@ BODY
 .contenu
 {
 	width:940px;
-	height:/*auto*/1000px;
+	height:auto/*1000px*/;
 	padding:20px;
 	clear:both;
 }
 
-.section_boutons
+.bouton
 {
-	width:250px;
-	float:left;
-}
-
-.section_bouton
-{
-	width:200px;
+	width:450px;
 	height:60px;
 	margin:50px 0;
 	padding: 12px 25px 12px 25px;
@@ -107,25 +101,29 @@ BODY
 	background-color: #c6b4a0;
 	text-shadow: 0px -1px 0px rgba(0,0,0,0.2);
 	box-shadow: 0 5px 5px #b89d80, 0 9px 0 #827262, 0px 9px 10px rgba(0,0,0,0.4), inset 0px 2px 9px rgba(255,255,255,0.2), inset 0 -2px 9px rgba(0,0,0,0.2);
-	font-size: 1.4em;
+	font-size: 1.2em;
 	text-decoration: none;
 	cursor:pointer;
 }
-.section_bouton a
+
+.section_boutons
+{
+	width:250px;
+	float:left;
+}
+.section_boutons a
 {
 	text-decoration:none;
 	color:white;
 }
-.section_bouton:hover
+.section_boutons:hover
 {
 	color: #fff !important;
-	box-shadow: 0 5px #b89d80, 0 9px 0 #827262, 0px 9px 10px rgba(0,0,0,0.4), inset 0px 2px 15px rgba(255,255,255,0.4), inset 0 -2px 9px rgba(0,0,0,0.2);
 }
-.section_bouton:active
+.section_boutons:active
 {
 	top: 7px;
 	color: #fff !important;
-	box-shadow: 0 2px 0 #b89d80, 0px 4px 4px rgba(0,0,0,0.4), inset 0px 2px 5px rgba(0,0,0,0.2);
 }
 
 #section_diplomes
@@ -151,18 +149,6 @@ BODY
 #section_CV
 {
 	width:200px;
-}
-
-.section_affichages
-{
-	width:680px;
-	float:right;
-	color:black;
-}
-
-.section_affichages li
-{
-	margin:10px 0;
 }
 
 

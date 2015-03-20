@@ -3,8 +3,10 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 	<link href="css/style.css" rel="stylesheet" type="text/css" />
+	<link href="css/menu.css" rel="stylesheet" type="text/css" />
 	<script type="text/javascript" src="js/jquery.js"></script>
-    <script type="text/javascript" src="js/section.js"></script>
+	<script type="text/javascript" src="js/menu.js"></script>
+    <!--<script type="text/javascript" src="js/section.js"></script>-->
     <title>BULOT MONTAGNARD</title>
     <link rel="shortcut icon" href="img/bulot-montagnard-favicon.ico">
     <meta name="description" content="Portfolio de Mrs BULOT MONTAGNARD " />
@@ -16,6 +18,11 @@
 	<div class="body2">
         <!-- Header -->
         <?php include('html/header.php'); ?>
+		
+		
+		
+        <!-- Menu -->
+        <?php include('html/menu.php'); ?>
 
 
 
@@ -28,24 +35,12 @@
 				Je vous invite à lire les informations suivantes, afin de mieux me connaitre, aussi bien sur le plan personnel que professionnel.
 			</p>
 		
-        	<div class="section_boutons">
-                <div id="section_diplomes" class="section_bouton">
-                    <a href="#">Parcours</a>
-                </div>
-                <div id="section_experiences" class="section_bouton">
-                    <a href="#">Experiences professionnelles</a>
-                </div>         
-                <div id="section_langages" class="section_bouton">
-                    <a href="#">Connaissances techniques</a>
-                </div>
-                <div id="section_projets" class="section_bouton">
-                    <a href="#">Projets de l'entreprise <strong style="font-weight: normal;">BULOT MONTAGNARD</strong></a>
-                </div>
-			</div>
-			
-			<div class="section_affichages">
-            	<!-- jQuery affichant le resultat (par URL) selon le bouton cliqué -->
-            </div>
+        	<!--<div class="section_boutons">
+				<a href="html/section_afficher_diplomes.php"><input type='button' class='bouton' value='Parcours'/></a>
+				<a href="html/section_afficher_experiences.php"><input type='button' class='bouton' value='Experiences professionnelles'/></a>
+				<a href="html/section_afficher_langages.php"><input type='button' class='bouton' value='Connaissances techniques'/></a>
+				<a href="html/section_afficher_projets.php"><strong style="font-weight: normal;"><input type='button' class='bouton' value="Projets de l'entreprise BULOT MONTAGNARD"/></strong></a>
+			</div>-->
 		</div>
 	</div>
 
