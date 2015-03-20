@@ -1,4 +1,4 @@
-
+﻿
 <div id="footer">
     <div id="footer_sites_partenaires">
     	<h4>Sites partenaires :</h4>

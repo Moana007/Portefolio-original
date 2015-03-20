@@ -3,6 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 	<link href="../css/style.css" rel="stylesheet" type="text/css" />
+	<link href="../css/menu.css" rel="stylesheet" type="text/css" />
 	<script type="text/javascript" src="../js/jquery.js"></script>
 	<script type="text/javascript" src="../js/menu.js"></script>
     <!--<script type="text/javascript" src="../js/section.js"></script>-->
@@ -15,6 +16,13 @@
 
 <body>
 	<div class="body2">
+
+	    <!-- Header -->
+        <?php include('header2.php'); ?>
+		
+        <!-- Menu -->
+        <?php include('menu2.php'); ?>
+
         <!-- Contenu -->	
         <div class="contenu">
 			<h1><center>Description de l'entreprise Bulot Montagnard</center></h1>
@@ -36,8 +44,14 @@
 			 <h3>•	Quelles mouvements ont été faites par Bulot Montagnard France depuis sa création ?</h3>
 			 <p>
 			 	On voit que Bulot Montagnard France est fortement engagé sur la cible des utilisateurs souffrant de surpoids mais aussi pour le monde de la nature, la montage, etc... De plus, elle s'engage pour avoir le minimum de  teneur en sels des choses produites, d’utiliser un  marketing qui ne fait pas n’importe quoi et de maintenir la produtction des éléments Francais. La société ne créée pas de marketing pour les jeunes adultes âgés de moins de 15ans, toujours pour des raisons semblables. En 1997, Bulot Montagnard fût utilisé pour un exemple par tout le Moyen-Orient au sujet d'engagements sûr et certains, à propos des enjeux de la santé médical, et de la santé en montagne. La société dit avoir établit des contrat contre les grosses personnes. Par ailleurs, la société propose un grand panel aux utilisateur avec par exemple : boissons douce ou allégé, eau, café, chocolat, boissons pour le dormir, etc… mais aussi elle tien en courent les utilisateurs en montagne sur la composition des produits.
+
 			 </p>
 		</div>
 	</div>
+	
+
+
+	<!-- Footer -->
+	<?php include('footer2.php'); ?>
 </body>
 </html>

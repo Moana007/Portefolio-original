@@ -22,7 +22,6 @@
 		<li>
 			<a>L'influence de la publicité</a>
 			<ul class="menu_sous_categories">
-				<li><a href="html/sondage_publicite.php">Sondage d'une publicité</a></li>
 				<li><a href="html/message_diffuse.php">Message diffusé</a></li>
 			</ul>
 		</li>
