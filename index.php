@@ -7,9 +7,14 @@
 	<script type="text/javascript" src="js/jquery.js"></script>
 	<script type="text/javascript" src="js/menu.js"></script>
     <!--<script type="text/javascript" src="js/section.js"></script>-->
-    <title>Bulot montagnard - Numéro un des boissons énergisantes bulot</title>
+    <title>Bulot montagnard - Numéro un des boissons bulot</title>
     <link rel="shortcut icon" href="img/bulot-montagnard-favicon.ico">
-    <meta name="description" content="Fondé en 1992, Bulot montagnard est le numéro un des boissons énergisantes bulot. Bulot est la boisson qui accompagnera vos longues randonnées à la montagne." />
+    <meta name="description" content="Fondé en 1992, Bulot montagnard est le numéro un des boissons bulot. Bulot est la boisson qui accompagnera vos longues randonnées à la montagne." />
+    <!-- META pour Reseaux sociaux -->
+    <meta property="og:title" content="Bulot Montagnard" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="http://www.portefolio-original.fr/" />
+	<meta property="og:image" content="http://www.portefolio-original.fr/img/bulot-montagnard-picture.jpg" />
 </head>
 
 <body>
@@ -26,8 +31,8 @@
 
         <!-- Contenu -->		
         <div class="contenu">
-			<h1 class="center">Introduction de la société Bulot Montagnard</h1>
-			<h2>Bulot Montagnard Entreprise dût commencer par surmonter une <em>montagne</em> de problèmes</h2>
+			<h2 class="center">Introduction de la société Bulot Montagnard</h2>
+			<h3>Bulot Montagnard Entreprise a dû commencer par surmonter une <em>montagne</em> de problèmes</h3>
 			<p>
 				Nous allons nous occuper d’une bouteille en plastique dans laquelle se trouve un liquide vert, doux, rafraichissant, montagneux, source d'énergie, synonyme de douceur et de convivialité, présent partout, et surtout en <strong>montagne</strong>, elle a une représentation mondial en France. Hier, symbole de « Buvons bien, buvons plus», aujourd'hui d'optimisme et de positivisme. Vous avez normalement reconnu le <strong>Bulot</strong>.
 			</p>

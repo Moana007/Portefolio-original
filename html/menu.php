@@ -29,6 +29,7 @@
 		<li>
 			<a>Conclusion</a>
 			<ul class="menu_sous_categories">
+				<li><a href="menu-conclusion-bulot-montagnard">Menu Conclusion</a></li>
 				<li><a href="conclusion-bulot-montagnard">Conclusion</a></li>
 				<li><a href="definitions-bulot-montagnard">P.C et Mention légales</a></li>
 				<li><a href="sources-bulot-montagnard">Sources</a></li>

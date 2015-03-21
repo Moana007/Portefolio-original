@@ -10,6 +10,11 @@
     <title>Bulot Montagnard : sources</title>
     <link rel="shortcut icon" href="img/bulot-montagnard-favicon.ico">
     <meta name="description" content="Sources de BULOT MONTAGNARD " />
+    <!-- META pour Reseaux sociaux -->
+    <meta property="og:title" content="Sources de Bulot Montagnard" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="http://www.portefolio-original.fr/sources-bulot-montagnard" />
+	<meta property="og:image" content="http://www.portefolio-original.fr/img/bulot-montagnard-picture.jpg" />
 </head>
 
 <body>
@@ -28,7 +33,7 @@
         <div class="contenu"> 
 			
 
-				 <h1 class="center">Ici les sources de BULOT MONTAGNARD !</h1> 
+				 <h2 class="center">Ici les sources de BULOT MONTAGNARD !</h2> 
 
 			
 			 <br><br> 

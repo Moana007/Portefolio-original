@@ -10,6 +10,11 @@
     <title>Bulot Montagnard : introduction</title>
     <link rel="shortcut icon" href="img/bulot-montagnard-favicon.ico">
     <meta name="description" content="Introduction de BULOT MONTAGNARD " />
+    <!-- META pour Reseaux sociaux -->
+    <meta property="og:title" content="Introduction de Bulot Montagnard" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="http://www.portefolio-original.fr/introduction-bulot-montagnard" />
+	<meta property="og:image" content="http://www.portefolio-original.fr/img/bulot-montagnard-picture.jpg" />
 </head>
 
 
@@ -27,7 +32,7 @@
 
         <!-- Contenu -->		
         <div class="contenu">
-			<h1 class="center">Parcours de Bulot montagnard entreprise</h1> 
+			<h2 class="center">Parcours de Bulot montagnard entreprise</h2> 
 			 <ul> 
 				 <li> 
 					 2013-2014 :  <br /> 

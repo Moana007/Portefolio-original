@@ -42,15 +42,19 @@
             <li>
                 Description et Stratégies
                 <ul>
-                <li><a href="description-bulot-montagnard">Description de <strong>Bulot Montagnard</strong></a></li>
-                <li><a href="supports-bulot-montagnard">Les supports</a></li>
-                <li><a href="marketing-bulot-montagnard">La mercatique de <strong>Bulot Montagnard</strong></a></li>
+                    <li><a href="description-bulot-montagnard">Description de <strong>Bulot Montagnard</strong></a></li>
+                    <li><a href="supports-bulot-montagnard">Les supports</a></li>
+                    <li><a href="marketing-bulot-montagnard">La mercatique de <strong>Bulot Montagnard</strong></a></li>
                 </ul>
             </li>
             <li><a href="message-bulot-montagnard">Message diffusé par Bulot Montagnard</a></li>
-            <li><a href="conclusion-bulot-montagnard">Conclusion</a></li>
-            <li><a href="definitions-bulot-montagnard">P.C et Mention légales</a></li>
-            <li><a href="sources-bulot-montagnard">Sources des mots Bulot Montagnard</a></li>
+            <li>
+                <a href="menu-conclusion-bulot-montagnard">Menu Conclusion</a>
+                <ul>
+                    <li><a href="conclusion-bulot-montagnard">Conclusion</a></li>
+                    <li><a href="definitions-bulot-montagnard">P.C et Mention légales</a></li>
+                    <li><a href="sources-bulot-montagnard">Sources des mots Bulot Montagnard</a></li>
+               </ul>
         </ul>
     </div>
 

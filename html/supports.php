@@ -10,6 +10,11 @@
     <title>Bulot Montagnard : supports</title>
     <link rel="shortcut icon" href="img/bulot-montagnard-favicon.ico">
     <meta name="description" content="Portfolio de Mrs BULOT MONTAGNARD " />
+    <!-- META pour Reseaux sociaux -->
+    <meta property="og:title" content="Support Bulot Montagnard" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="http://www.portefolio-original.fr/supports-bulot-montagnard" />
+	<meta property="og:image" content="http://www.portefolio-original.fr/img/bulot-montagnard-picture.jpg" />
 </head>
 
 
@@ -27,8 +32,8 @@
 
         <!-- Contenu -->		
         <div class="contenu">
-			<h1 class="center">Les moyens de communications mis en place par Bulot Montagnard</h1> 
-			<h2>1) Moyen de communication de Bulot Montagnard </h2>
+			<h2 class="center">Les moyens de communications mis en place par Bulot Montagnard</h2> 
+			<h3>1) Moyen de communication de Bulot Montagnard </h3>
 			<p>
 				Maintenant intéressons nous aux outils que la <strong>société</strong> dont elle a recours, commençons par les divers sponsorings, dont ceux qui sont en <em>montagne</em>. D’abord nous évoquerons des sponsors du domaine du sport.
 			</p> 

@@ -9,7 +9,12 @@
 	<!--<script type="text/javascript" src="../js/section.js"></script>-->
 	<title>Bulot Montagnard : conclusion</title>
 	<link rel="shortcut icon" href="img/bulot-montagnard-favicon.ico">
-	<meta name="description" content="Conclusion de BULOT MONTAGNARD " /> 
+	<meta name="description" content="Conclusion de BULOT MONTAGNARD " />
+	<!-- META pour Reseaux sociaux -->
+    <meta property="og:title" content="Conclusion Bulot Montagnard" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="http://www.portefolio-original.fr/conclusions-bulot-montagnard" />
+	<meta property="og:image" content="http://www.portefolio-original.fr/img/bulot-montagnard-picture.jpg" /> 
 </head>
 
 
@@ -27,8 +32,8 @@
 
         <!-- Contenu -->		
         <div class="contenu">
-			<h1 class="center">Conclusion de Bulot Montagnard</h1>
-			<h2>Une montagne de résultats</h2>
+			<h2 class="center">Conclusion de Bulot Montagnard</h2>
+			<h3>Une montagne de résultats</h3>
 			<p>
 				D’après ce qu’on a vu, <strong>Bulot Montagnard</strong> a presque le monopole sur les <strong>boisson</strong> de <em>montagne</em>, il est claire que la <strong>société</strong> grandissante a un plan marketing hors norme, et tout nouveau. Nous le voyons car elle est placé sur le marché de à la bourse du monde entier et même de l’univers et à un CA leur permettant de consacrer beaucoup d’argent pour le domaine du marketing de <strong>Bulot Montagnard</strong>. 
 			</p> 

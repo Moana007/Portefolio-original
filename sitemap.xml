@@ -2,115 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
  <url>
   <loc>http://www.portefolio-original.fr//</loc>
-  <lastmod>2015-03-20</lastmod>
+  <lastmod>2015-03-21</lastmod>
   <changefreq>weekly</changefreq>
   <priority>1</priority>
  </url>
  <url>
-  <loc>http://www.portefolio-original.fr//index.php</loc>
-  <lastmod>2015-03-20</lastmod>
+  <loc>http://www.portefolio-original.fr//bulot-montagnard</loc>
+  <lastmod>2015-03-21</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.8</priority>
  </url>
  <url>
-  <loc>http://www.portefolio-original.fr//html/introduction.php</loc>
-  <lastmod>2015-03-20</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.6</priority>
- </url>
- <url>
-  <loc>http://www.portefolio-original.fr//html/description_entreprise.php</loc>
-  <lastmod>2015-03-20</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.6</priority>
- </url>
- <url>
-  <loc>http://www.portefolio-original.fr//html/supports.php</loc>
-  <lastmod>2015-03-20</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.6</priority>
- </url>
- <url>
-  <loc>http://www.portefolio-original.fr//html/mercatique.php</loc>
-  <lastmod>2015-03-20</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.6</priority>
- </url>
- <url>
-  <loc>http://www.portefolio-original.fr//html/message_diffuse.php</loc>
-  <lastmod>2015-03-20</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.6</priority>
- </url>
- <url>
-  <loc>http://www.portefolio-original.fr//html/conclusion.php</loc>
-  <lastmod>2015-03-20</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.6</priority>
- </url>
- <url>
-  <loc>http://www.portefolio-original.fr//html/definitions.php</loc>
-  <lastmod>2015-03-20</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.6</priority>
- </url>
- <url>
-  <loc>http://www.portefolio-original.fr//html/sources.php</loc>
-  <lastmod>2015-03-20</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.6</priority>
- </url>
- <url>
-  <loc>http://www.portefolio-original.fr//html/section_afficher_diplomes.php</loc>
-  <lastmod>2015-03-20</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.6</priority>
- </url>
- <url>
-  <loc>http://www.portefolio-original.fr//html/section_afficher_experiences.php</loc>
-  <lastmod>2015-03-20</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.6</priority>
- </url>
- <url>
-  <loc>http://www.portefolio-original.fr//html/section_afficher_langages.php</loc>
-  <lastmod>2015-03-20</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.6</priority>
- </url>
- <url>
-  <loc>http://www.portefolio-original.fr//html/section_afficher_projets.php</loc>
-  <lastmod>2015-03-20</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.6</priority>
- </url>
- <url>
-  <loc>http://www.portefolio-original.fr//./index.php</loc>
-  <lastmod>2015-03-20</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.6</priority>
- </url>
- <url>
-  <loc>http://www.portefolio-original.fr//introduction.php</loc>
-  <lastmod>2015-03-20</lastmod>
+  <loc>http://www.portefolio-original.fr//introduction-bulot-montagnard</loc>
+  <lastmod>2015-03-21</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.8</priority>
  </url>
  <url>
-  <loc>http://www.portefolio-original.fr//description_entreprise.php</loc>
-  <lastmod>2015-03-20</lastmod>
+  <loc>http://www.portefolio-original.fr//description-bulot-montagnard</loc>
+  <lastmod>2015-03-21</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.8</priority>
  </url>
  <url>
-  <loc>http://www.portefolio-original.fr//supports.php</loc>
-  <lastmod>2015-03-20</lastmod>
+  <loc>http://www.portefolio-original.fr//supports-bulot-montagnard</loc>
+  <lastmod>2015-03-21</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.8</priority>
  </url>
  <url>
-  <loc>http://www.portefolio-original.fr//mercatique.php</loc>
-  <lastmod>2015-03-20</lastmod>
+  <loc>http://www.portefolio-original.fr//marketing-bulot-montagnard</loc>
+  <lastmod>2015-03-21</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+ </url>
+ <url>
+  <loc>http://www.portefolio-original.fr//message-bulot-montagnard</loc>
+  <lastmod>2015-03-21</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+ </url>
+ <url>
+  <loc>http://www.portefolio-original.fr//conclusion-bulot-montagnard</loc>
+  <lastmod>2015-03-21</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+ </url>
+ <url>
+  <loc>http://www.portefolio-original.fr//definitions-bulot-montagnard</loc>
+  <lastmod>2015-03-21</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+ </url>
+ <url>
+  <loc>http://www.portefolio-original.fr//sources-bulot-montagnard</loc>
+  <lastmod>2015-03-21</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.8</priority>
  </url>

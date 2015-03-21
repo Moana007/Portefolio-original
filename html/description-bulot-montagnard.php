@@ -10,6 +10,11 @@
     <title>Bulot Montagnard : Description entreprise</title>
     <link rel="shortcut icon" href="img/bulot-montagnard-favicon.ico">
     <meta name="description" content="Description de BULOT MONTAGNARD entreprise" />
+    <!-- META pour Reseaux sociaux -->
+    <meta property="og:title" content="Description de Bulot Montagnard" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="http://www.portefolio-original.fr/description-bulot-montagnard" />
+	<meta property="og:image" content="http://www.portefolio-original.fr/img/bulot-montagnard-picture.jpg" />
 </head>
 
 <body>
@@ -23,8 +28,8 @@
 
         <!-- Contenu -->	
         <div class="contenu">
-			<h1 class="center">Description de l'entreprise Bulot Montagnard</h1>
-			<h2>1) Description de notre entreprise</h2>
+			<h2 class="center">Description de l'entreprise Bulot Montagnard</h2>
+			<h3>1) Description de notre entreprise</h3>
 			<img style="height:300px;width:300px;" alt="boisson bulot de couleur-blanche" src="img/bulot-montagnard-picture.jpg">
 			<p>
 				En premier, nous allons vous montrer l'entreprise <strong>Bulot Montagnard</strong> dans toutes ses capacités et tout son environnement. Mais en tout 1er lieu, nous allons vous faire un grand récapitulatif de la provenance de la société <strong>Bulot Montagnard</strong>.
